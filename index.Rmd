@@ -1,0 +1,305 @@
+---
+title: "Relatório PL execício ilegal das profissões regulamentadas"
+output: html_document
+date: "30-09-2024"
+---
+
+## **Projeto de Lei 2614/2015 - exercício ilegal das profissões regulamentadas**
+
+> ### Sumário
+>
+> ##### [Tramitação](#tramitação-1)
+>
+> ##### [Histórico no CAU/BR](#histórico-no-caubr-1)
+>
+> ##### [Possíveis ações do CAU](#possíveis-ações-do-CAU-1)
+>
+> ##### [Perfil dos parlamentares](#perfil-dos-parlamentares-1)
+>
+> ##### [Anexos](#anexos-1)
+
+## Tramitação {#tramitação-1}
+
+Há quatro PLs no Congresso Nacional sobre o exercício ilegal das profissões regulamentadas:
+
+Na Câmara dos Deputados: [[PL 3614/2015]{.underline}], [[PL 2730/2023]{.underline}], [[PL 3731/2023]{.underline}], os dois últimos foram apensados ao primeiro;
+
+No Senado Federal: [[PLS 236/2012]{.underline}] (novo código penal), ainda em tramitação no Senado.
+
+Todos os PLs buscam alterar o Art. 282 do Código Penal (Decreto-Lei nº 2.848/1940), que atualmente tem a seguinte redação:
+
+> ##### **Art. 282 - Exercer, ainda que a título gratuito, a profissão de médico, dentista ou farmacêutico, sem autorização legal ou excedendo-lhe os limites:**
+>
+> ##### **Pena - detenção, de seis meses a dois anos.**
+>
+> ##### **Parágrafo único - Se o crime é praticado com o fim de lucro, aplica-se também multa.**
+
+### Tramitação na Câmara dos Deputados
+
+-   [PL 3.614/2015]{.underline}
+
+    Autoria: ex-deputado federal [Onix Lorenzoni];
+
+    Foi o primeiro projeto a ser apresentado;
+
+    Tipifica como crime o exercício ilegal o exercício, sem autorização legal ou excedendo os limites, o exercício de [qualquer profissão regulamentada]{.underline};
+
+-   [PL 2730/2023]{.underline}
+
+    Autoria: deputado federal [Abilio Brunini (PL/MT)](#abilio-brunini-plmt);
+
+    Tipifica como crime o exercício da profissão de [Engenheiro ou Arquiteto]{.underline} sem autorização legal ou registro no respectivo Conselho Profissional;
+
+    Apensado ao PL 3.614/2015;
+
+-   [PL 3731/2023]{.underline}
+
+    Autoria: deputada federal [Laura Carneiro (PSD/RJ)](#laura-carneiro-psdrj);
+
+    Tipifica como crime o exercício da profissão de profissão de [engenheiro, arquiteto e urbanista ou engenheiro-agrônomo]{.underline}, sem autorização legal ou excedendo-lhes os limites.
+
+    Apensado ao PL 3.614/2015.
+
+A comparação em relação ao exercício com fins lucrativos, às penas e à relação com os conselhos profissionais está demonstrada a seguir:
+
+| PL 3.614/2015                                                                             | PL 2730/2023                                                                                                           | PL 3731/2023                                                                 |
+|-----------------------|-----------------------------|--------------------|
+| Se praticado com fins lucrativos, aplica-se também multa                                  | Especifica que a prática é sonsiderada crime se exercida com fins lucrativos                                           | Não menciona pena para prática com fins lucrativos, apenas multa             |
+| Reclusão, de seis meses a três anos + multa, se praticado com fins lucrativos             | Detenção de seis meses a dois anos                                                                                     | Detenção de seis meses a dois anos + multa, se praticado com fins lucrativos |
+| Não menciona explicitamente a necessidade de registro no respectivo conselho profissional | Determina que o exercício da profissão, sem autorização legal ou registro no respectivo Conselho Profissional, é crime | Determina que o exercício da profissão, sem autorização legal é crime        |
+
+O PL principal, 3.614/2015, foi encaminhado à Comissão de Constituição e Justica e de Cidadania (CCJC), onde recebeu três pareceres:
+
+1️⃣ 2022- Deputado Tadeu Alencar (PSB/PE):
+
+O parecer do deputado foi apresentado antes dos PLs 2730/2023 e 3731/2023 serem apensados;
+
+O relator apresentou um parecer pela aprovação do 3.614/2015, na forma de substitutivo:
+
+> ##### “Exercício ilegal de profissão regulamentada
+>
+> ##### Art. 282 - Exercer, ainda que a título gratuito, profissão regulamentada sujeita à fiscalização por conselho de classe, sem autorização legal ou excedendo-lhe os limites:
+>
+> ##### §1º A pena é aumentada de 1/3 (um terço) se o crime previsto no caput deste artigo envolver profissão relacionada à saúde humana, animal e vegetal. §2º Se o crime é praticado com o fim de lucro, aplica-se também a multa.” (NR)
+
+O texto também trata de forma mais específica sobre o exercício da advocacia.
+
+O parecer não foi apreciado pela comissão e Tadeu Alencar deixou de ser membro da comissão.
+
+2️⃣ 2023- Deputado Marangoni (UNIÃO/SP):
+
+O relator precisou apresentar três pareceres, devido aos apensados apresentados.
+
+> ~[O relatório deve considerar todos os apensados apresentados. Se um projeto é apensado após a apresentação do]{.smallcaps}~
+>
+> ~[parecer, o relator deverá apresentar um novo relatório considerando o novo projeto]{.smallcaps}~
+
+O texto substitutivo apresentado por Marangoni é quase igual ao primeiro parecer, todavia, também trata de corretores de imóveis;
+
+O parecer não foi apreciado pela comissão e Marangoni deixou de ser membro da comissão.
+
+3️⃣ 2024- Deputado Ricardo Salles (NOVO/SP):
+
+O parecer de Ricardo Salles foi pela rejeição dos três projetos citados, pois seria desproporcional criminalizar o exercício ilegal das profissões regulamentadas, considerando que os conselhos já dispõem de sanções para os profissionais;
+
+Após apresentado, o parecer foi devolvido ao relator, em razão de um novo projeto apensado;
+
+O parecer não foi apreciado pela comissão e Ricardo Salles deixou de ser membro da comissão.
+
+▪️ Hoje a relatora do PL é a deputada [Caroline de Toni (PL/SC)](#caroline-de-toni-plsc), que ainda não emitiu parecer sobre a matéria. Considerando seu posicionamento ideológico, a probabilidade de apresentar um parecer pela rejeição é alta, mas são necessárias conversas com a parlamentar.
+
+### Tramitação no Senado Federal
+
+O PLS 236/2012 aguarda parecer na Comissão de Constituição, Justiça e Cidadania (CCJ) desde 2012. Apesar de ter tido alguns relatores designados, nunca recebeu nenhum parecer.
+
+## Histórico no CAU/BR {#histórico-no-caubr-1}
+
+-   2024
+
+    Março
+
+    1️⃣ 37ª Reunião Ordinária do Fórum de Presidentes de CAU/UF (14/03/2024)
+
+    O exercício ilegal da profissão foi pauta na reunião. A assessora-chefe da AIP à epoca, Luciana Rubino, apresentou os projetos de lei que tramitavam sobre o tema e informou que a aprovação de uma lei que tipifique o exercício ilegal de profissões regulamentadas não é tarefa simples, pois dificilmente será pautada no Plenário da Câmara, considerando a divisão entre os parlamentares sobre o assunto.
+
+    O debate sobre o exercício ilegal da profissão se deu em torno, principalmente, da autoconstrução. Os debatedores apontaram que além das [tragédias]{.underline} decorrentes da construção sem assistência técnica, há consequências menores, como [falta de iluminação e circulação do ar]{.underline}, o que causa doenças respiratórias, [falta de acessibilidade]{.underline}, que pode acarretar em acidentes com idosos, por exemplo, e [gasto desnecessário de materiais de construção]{.underline} por falta de orientação qualificada.
+
+    Nesse sentido, foi sugerida a elaboração de um material para sensibilizar os parlamentares e a sociedade a respeito da importância da aprovação de um projeto que tipifique o exercício da Arquitetura fora das condições legais como crime .
+
+    Outros aspectos dabatidos sobre a autoconstrução foram a quantidade insuficiente de profissionais que para atenderem a alta demanda de assistência técnica, a percepção cultural sobre autoconstrução e a existência de políticas públicas que consideram autoconstrução em sua estruturação, como o caso de auxílo de compra de materiais de construção sem vínculo a algum tipo de orientação profissional.
+
+    ![](resumo%20informativo%20exercicio%20ilegal%20.png)
+
+    Ainda sobre a autoconstrução, o coordenador no Fórum, presidente do CAU/TO, Matozalém Santana, destacou que na resolução 198/2020 do CAU/BR determina que:
+
+    > ##### Art. 39, § 1º: No caso da infração prevista no inciso V deste artigo (ausência de responsável técnico), quando o notificado ou autuado se tratar de pessoa física cuja família se configure como de baixa renda, o CAU/UF notificará o órgão local competente para o cumprimento da Lei nº 11.888, de 24 de dezembro de 2008, e, caso não seja regularizada a situação, o CAU/UF deverá comunicará o fato ao Ministério Público, não sendo aplicada a penalidade de multa ao autuado.
+
+    Dessa forma, não se deve fazer "vista grossa" à autoconstrução diante do cenário social, pois não se trata meramente de uma questão econômica, mas de um conhecimento técnico imprescindível para esse tipo de atividade.
+
+    Além da autoconstrução, foi mencionado o caso de estudantes de Arquitetura e Urbanismo que exercem a profissão antes de se formarem e a quantidade elevada de desing de interiores que exercem Arquitetura e Urbanismo de forma irregular. Sobre o primeiro caso, foi alertado que é importante que não seja criminalizado o exercício de todo e qualquer estudante que exerce a profissão, pois há caso em que esse exercício se dá em condição de residência. monitorado ou supervisionado por um profissional-professor.
+
+    A presidente do CAU/MT, Elisangela Bokorni, destacou que em seu Estado há uma parceria com a Delegacia do Consumidor, que em casos de exercício irregular da prossisão, acompanha o fiscal do CAU/MT e faz a autuação, com base no Decreto-Lei 3.688/1941, Lei das Contravenções Penais.
+
+    O presidente do CAU/PR, Maugham Zaze, destacou a importância de uma ação mais incisiva no Congresso Nacional. Nesse sentido, a ex-assessora-chefe sugeriu que o tema fosse pautado no Fórum dos Conselhos Federais das Profissões Regulamentadas, para que pudessem ganhar força e articular com a Frente Parlamentar em apoio aos Conselhos Profissionais.
+
+    2️⃣ 146ª Plenária do CAU/BR (21/03/2024)
+
+    O coordenador do Fórum de Presidentes, Matozalém Santana, falou a respeito da elaboração do material para sensibilização dos parlamentares e da população sobre o assunto. Também ressaltou que a maior marte da população tem acesso à moradia através da autoconstrução, o que exige cuidado no tratamento da matéria.
+
+## Possíveis ações do CAU {#possíveis-ações-do-CAU-1}
+
+Propostas de ações da 37ª Reunião Ordinária do Fórum de Presidentes de CAU/UF
+
+Elaboração do material de sensibilização dos parlamentares e da população, indicando tragédias decorrentes da autoconstrução, problemas de iluminação e da circulação do ar, falta de acessibilidade, economia que o apoio técnico pode gerar;
+
+Pautar o tema no Fórum dos Conselhos Federais das Profissões Regulamentadas;
+
+Articular com a Frente Parlamentar em apoio aos Conselhos Profissionais.
+
+Outras ações:
+
+**É necessário que o CAU/BR aprove o texto de lei que considera adequado para o tema**;
+
+Conversar com a relatora Caroline de Toni, para saber seu posicionamento sobre o assunto;
+
+> ###### Hoje Caroline de Toni é presidente da CCJC, o que torna conseguir espaço em sua agenda difícil.
+
+Caso a [relatora seja favorável ao tema]{.underline}, [articular no Fórum dos Conselhos Federais das Profissões Regulamentadas]{.underline}, para elaboração de uma [proposta de parecer]{.underline}, para ser apresentado, em cojunto, para a relatora.
+
+Caso a [relatora seja contrária ao tema]{.underline}, [articular com outros parlamentares Membros da]{.underline} [Comissão de Constituição, Justiça e de Cidadania], para convencê-los sobre a importância da aprovação da matéria. Pois, em caso de apresentação de parecer pela rejeição, poderão votar por não aceitá-lo.
+
+Caso a matéria seja aprovada na CCJC e [vá ao plenário]{.underline}, [articular com a Frente Parlamentar em apoio aos Conselhos Profissionais]{.underline}, para votarem de forma a aprovar o projeto.Em conjunto, será necessário articular com o Presidente da Câmara dos Deputados, para que paute a matéria.
+
+## Perfil dos Parlamentares {#perfil-dos-parlamentares-1}
+
+### Onix Lorenzoni
+
+![](74399.jpgmaior.jpg){width="237"}
+
+-   Atividade parlamentar (Câmara dos Deputados): 2003-2022;
+
+-   Profissão: médico veterinário;
+
+-   Não é mais Deputado Federal.
+
+###### [Voltar à leitura](#tramitação-1)
+
+### Abilio Brunini (PL/MT) {#abilio-brunini-plmt}
+
+![](220593.jpg){width="237" height="180"}
+
+-   Atividade parlamentar (Câmara dos Deputados): 2023- atual;
+
+-   Profissão: arquiteto e urbanista;
+
+-   Apesar de se alinhar a grupos liberais, tem parecer favorável ao CAU, não se opondo à regulação como outros parlamentares do grupo fazem;
+
+-   Comissões em que é titular: Comissão Externa para acompanhar a investigação da crise dos Yanomami
+
+-   Comissões em que é suplente:Comissão de Defesa dos Direitos das Pessoas com Deficiência; Comissão de Viação e Transportes; Comissão de Comunicação;Comissão de Ciência, Tecnologia e Inovação; Comissão de Desenvolvimento Urbano; Comissão de Finanças e Tributação; Comissão de Cultura; Comissão de Trabalho.
+
+###### [Voltar à leitura](#tramitação-1)
+
+### Laura Carneiro (PSD/RJ) {#laura-carneiro-psdrj}
+
+![](laura%20carneiro.jfif){width="208"}
+
+-   Atividade parlamentar (Câmara dos Deputados): 2003- atual;
+
+-   Profissão: advogada;
+
+-   Já foi do PSDB, PMDB, PTB e DEM;
+
+-   Apoiou a criação de frentes parlamentares de interesse do CAU: da Engenharia, Infraestrutura e Desenvolvimento Nacional, das Micro e Pequenas Empresas; do sistema BIM e dos Conselhos Profissionais;
+
+-   Comissões em que é titular: Comissão de Defesa dos Direitos da Mulher; Comissão de Previdência, Assistência Social, Infância, Adolescência e Família; Comissões Especiais de Violência Obstétrica e Morte Materna, de Combate ao Câncer no Brasil, da PEC 169/19 - Acumulação de Cargo de Professor;
+
+    -   Comissões externas da Situação dos Municípios que Perderam Recursos do FPM e do Acidente Avião VOEPASS Linhas Aéreas - Voo 2283 - ATR-72.
+
+-   Comissões em que é suplente: Comissão de Constituição e Justiça e de Cidadania; Comissão de Finanças e Tributação.
+
+###### [Voltar à leitura](#tramitação-1)
+
+### Caroline de Toni (PL/SC) {#caroline-de-toni-plsc}
+
+![](204369.jpgmaior.jpg){width="237"}
+
+-   Atividade parlamentar (Câmara dos Deputados): 2019- atual;
+
+-   Profissão: advogada;
+
+-   Considerando seu posicionamento ideológico e sua fidelidade partidária, há grandes chances de apresentar parecer pela rejeição da matéria.
+
+-   Comissões em que é titular: Comissão de Constituição e Justiça e de Cidadania; Comissão da Amazônia e dos Povos Originários e Tradicionais.
+
+-   Comissões em que é suplente: Comissão de Relações Exteriores e de Defesa Nacional.
+
+###### [Voltar à leitura](#tramitação-1)
+
+## Anexos {#anexos-1}
+
+#### PL 3614/2015
+
+Art. 1º O art. 282 do Decreto-lei nº 2.848, de 7 de dezembro de 1940, passa a vigorar com a seguinte redação:
+
+“Exercício ilegal de profissão regulamentada”
+
+Art. 282 - Exercer, ainda que a título gratuito, qualquer profissão regulamentada, sem autorização legal ou excedendo-lhe os limites:
+
+Pena - reclusão, de seis meses a três anos. Parágrafo primeiro - Aumenta-se a pena de 1/3 (um terço) se o crime do “caput” for praticado na área da saúde humana, animal ou vegetal. Parágrafo segundo - Se o crime é praticado com o fim de lucro, aplicase também multa. (NR).
+
+###### [Voltar à leitura](#tramitação-1)
+
+#### PL 2730/2023
+
+Art. 1º Esta Lei acrescenta dispositivos ao Decreto-Lei nº 2.848, de 7 de dezembro de 1940, para tipificar como crime o exercício ilegal da Engenharia ou Arquitetura.
+
+Art. 2º O Decreto-Lei nº 2.848, de 7 de dezembro de 1940, passa a vigorar acrescido do seguinte artigo 282-A:
+
+Exercício Ilegal da Engenharia ou Arquitetura
+
+“Art. 282-A. Exercer, com fins lucrativos, a profissão de Engenheiro ou Arquiteto sem autorização legal ou registro no respectivo Conselho Profissional.
+
+Pena: detenção de 6 (seis) meses a 2 (dois) anos”.
+
+###### [Voltar à leitura](#tramitação-1)
+
+#### PL 3731/2023
+
+Art. 1º Esta Lei acrescenta o art. 282-A ao Decreto-lei nº 2.848, de 7 de dezembro de 1940, a fim de tipificar como crime o exercício ilegal das profissões de engenheiro, arquiteto e urbanista e engenheiro-agrônomo.
+
+Art. 2º O Decreto-lei nº 2.848, de 7 de dezembro de 1940, passa a vigorar acrescido do seguinte art. 282-A:
+
+“Exercício ilegal da Engenharia, da Arquitetura e Urbanismo e da Agronomia
+
+Art. 282-A – Exercer, ainda que a título gratuito, a profissão de engenheiro, arquiteto e urbanista ou engenheiro-agrônomo, sem autorização legal ou excedendo-lhes os limites:
+
+Pena – detenção, de seis meses a dois anos. Parágrafo único – Se o crime é praticado com o fim de lucro, aplica-se também a multa.”
+
+###### [Voltar à leitura](#tramitação-1)
+
+#### PLS 236/2012
+
+Art. 197. Exercer ou anunciar que exerce, ainda que a título gratuito, qualquer profissão ou atividade econômica regulamentada, sem preencher as condições a que por lei está subordinado o seu exercício, ou sem autorização legal ou excedendo-lhe os limites: Pena – prisão, de seis meses a dois anos.
+
+§ 1º Se o crime é praticado com o fim de lucro, aplica-se também multa.
+
+§ 2º Incorre nas penas de prisão, de um a três anos, quem exercer função, atividade, direito, autoridade ou múnus de que foi suspenso ou privado por decisão administrativa ou judicial.
+
+###### [Voltar à leitura](#tramitação-1)
+
+##### Decreto-Lei 3.688/1941, Lei das Contravenções Penais
+
+Art. 47. Exercer profissão ou atividade econômica ou anunciar que a exerce, sem preencher as condições a que por lei está subordinado o seu exercício:
+
+Pena – prisão simples, de quinze dias a três meses, ou multa, de quinhentos mil réis a cinco contos de réis.
+
+###### [Voltar à leitura](#histórico-no-caubr-1)
+
+### Comissão de Constituição, Justiça e de Cidadania
+
+-   Titulares: Acácio Favacho (MDB/AP), Afonso Motta (PDT/RS), Alex Manente (CIDADANIA/SP), Alfredo Gaspar (UNIÃO/AL), Allan Garcês (PP/MA), Arthur Oliveira Maia (UNIÃO/BA), Bacelar (PV/BA), Bia Kicis (PL/DF), Capitão Alberto Neto (PL/AM), Caroline de Toni (PL/SC), Castro Neto (PSD/PI), Cezinha de Madureira (PSD/SP), Chris Tonietto (PL/RJ), Coronel Assis (UNIÃO/MT), Coronel Fernanda (PL/MT), Covatti Filho (PP/RS), Danilo Forte (UNIÃO/CE), Defensor Stélio Dener (REPUBLICANOS/RR), Delegada Katarina (PSD/SE), Delegado Fabio Costa (PP/AL), Delegado Éder Mauro (PL/PA), Diego Coronel (PSD/BA), Dr. Jaziel (PL/CE), Dr. Victor Linhalis (PODE/ES), Duarte Jr. (PSB/MA), Eduardo Bismarck (PDT/CE), Elcione Barbalho (MDB/PA), Eliza Virgínia (PP/PB), Felipe Carreras (PSB/PE), Fernanda Pessoa (UNIÃO/CE), Fernando Rodolfo (PL/PE), Flávio Nogueira (PT/PI), Helder Salomão (PT/ES), José Guimarães (PT/CE), João Leão (PP/BA), Juarez Costa (MDB/MT), Julia Zanatta (PL/SC), Lafayette de Andrada (REPUBLICANOS/MG), Luiz Couto (PT/PB), Luiz Philippe de Orleans e Bragança (PL/SP), Marcelo Crivella (REPUBLICANOS/RJ), Marcos Pollon (PL/MS), Marcos Soares (UNIÃO/RJ), Maria Arraes (SOLIDARIEDADE/PE), Marreca Filho (PRD/MA), Mauricio Marcon (PODE/RS), Mendonça Filho (UNIÃO/PE), Nicoletti (UNIÃO/RR), Olival Marques (MDB/PA), Orlando Silva (PCdoB/SP), Patrus Ananias (PT/MG), Paulo Abi-ackel (PSDB/MG), Paulo Magalhães (PSD/BA), Pedro Aihara (PRD/MG), Pedro Lupion (PP/PR), Pr. Marco Feliciano (PL/SP), Renilce Nicodemos (MDB/PA), Renildo Calheiros (PCdoB/PE), Ricardo Ayres (REPUBLICANOS/TO), Roberto Duarte (REPUBLICANOS/AC), Rubens Pereira Júnior (PT/MA), Soraya Santos (PL/RJ), Waldemar Oliveira (AVANTE/PE), Welter (PT/PR), Chico Alencar (PSOL/RJ), Célia Xakriabá (PSOL/MG).
+
+-   Suplentes: Aguinaldo Ribeiro (PP/PB), Alencar Santana (PT/SP), Aluisio Mendes (REPUBLICANOS/MA), Ana Paula Lima (PT/SC), Aureo Ribeiro (SOLIDARIEDADE/RJ), Baleia Rossi (MDB/SP), Benes Leocádio (UNIÃO/RN), Bruno Farias (AVANTE/MG), Cabo Gilberto Silva (PL/PB), Carlos Veras (PT/PE), Cobalchini (MDB/SC), Coronel Meira (PL/PE), Dandara (PT/MG), Dani Cunha (UNIÃO/RJ), Daniel José (PODE/SP), Darci de Matos (PSD/SC), Delegado Marcelo Freitas (UNIÃO/MG), Delegado Paulo Bilynskyj (PL/SP), Delegado Ramagem (PL/RJ), Delegado da Cunha (PP/SP), Diego Garcia (REPUBLICANOS/PR), Domingos Sávio (PL/MG), Emanuel Pinheiro Neto (MDB/MT), Erika Kokay (PT/DF), Evair Vieira de Melo (PP/ES), Felipe Francischini (UNIÃO/PR), Filipe Barros (PL/PR), Gilson Daniel (PODE/ES), Gisela Simona (UNIÃO/MT), Gleisi Hoffmann (PT/PR), Hugo Motta (REPUBLICANOS/PB), José Medeiros (PL/MT), Kiko Celeguim (PT/SP), Kim Kataguiri (UNIÃO/SP), Laura Carneiro (PSD/RJ), Lindbergh Farias (PT/RJ), Lucas Redecker (PSDB/RS), Lucyana Genésio (PDT/MA), Luiz Gastão (PSD/CE), Lêda Borges (PSDB/GO), Marcelo Moraes (PL/RS), Mauro Benevides Filho (PDT/CE), Miguel Ângelo (PT/MG), Pauderney Avelino (UNIÃO/AM), Paulo Azi (UNIÃO/BA), Pedro Campos (PSB/PE), Pedro Jr (PL/TO), Rafael Brito (MDB/AL), Rafael Simoes (UNIÃO/MG), Reginaldo Lopes (PT/MG), Rodolfo Nogueira (PL/MS), Rodrigo Valadares (UNIÃO/SE), Ronaldo Nogueira (REPUBLICANOS/RS), Sergio Souza (MDB/PR), Sidney Leite (PSD/AM), Tabata Amaral (PSB/SP), Tião Medeiros (PP/PR), Toninho Wandscheer (PP/PR), Wilson Santiago (REPUBLICANOS/PB), Zucco (PL/RS), Zé Haroldo Cathedral (PSD/RR), Átila Lira (PP/PI), Sâmia Bomfim (PSOL/SP), Túlio Gadêlha (REDE/PE), Gilson Marques (NOVO/SC), Marcel Van Hattem (NOVO/RS).
+
+###### [Voltar à leitura](#possíveis-ações-do-CAU-1)
